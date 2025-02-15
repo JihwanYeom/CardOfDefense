@@ -1,0 +1,10 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="screen" style="flex-grow: 1;">
+        <ui:VisualElement name="card_container_root" style="flex-grow: 0; height: 907px; width: 807px; flex-direction: row;">
+            <ui:Button parse-escape-sequences="true" display-tooltip-when-elided="true" name="card_container_close_button" style="background-image: url(&quot;project://database/Assets/UI_Scene/Fantasy%20Wooden%20GUI%20%20Free/normal_ui_set%20A/Close%20Button.png?fileID=2800000&amp;guid=11277a3f23988ec47908362d708edaa8&amp;type=3#Close Button&quot;); width: 100px; height: 100px; background-color: rgba(188, 188, 188, 0); align-self: flex-start;" />
+            <ui:VisualElement name="card_container_box" style="background-image: none;">
+                <ui:VisualElement name="card_container" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

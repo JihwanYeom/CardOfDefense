@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f37319bd20f174746a9195cba62ab074, type: 3}
+  m_Name: test
+  m_EditorClassIdentifier: 
+  spawnTime1: 1
+  spawnTime2: 1000
+  spawnTime3: 0
+  spawnTime4: 0
+  spawnCount1: 1
+  spawnCount2: 1
+  spawnCount3: 0
+  spawnCount4: 0
+  spawnMonster1: {fileID: 3423144039940529795, guid: 4cd2d09691f86cf4ba1e6d925d6eb3d6, type: 3}
+  spawnMonster2: {fileID: 7579937557588625389, guid: 89d72a8d27324a54aaad81fb6a3d12e4, type: 3}
+  spawnMonster3: {fileID: 2280128745538757439, guid: 9ed373a3f6111ca41a2ca76c6e2ed631, type: 3}
+  spawnMonster4: {fileID: 0}
+  backGround: {fileID: 8379861514861228634, guid: 0294460d0a78ba34ca66075a5106bf58, type: 3}

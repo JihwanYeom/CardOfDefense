@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f37319bd20f174746a9195cba62ab074, type: 3}
+  m_Name: Wave9
+  m_EditorClassIdentifier: 
+  spawnTime1: 8
+  spawnTime2: 9
+  spawnTime3: 10
+  spawnTime4: 0
+  spawnCount1: 8
+  spawnCount2: 8
+  spawnCount3: 8
+  spawnCount4: 0
+  spawnMonster1: {fileID: 3430666685662764197, guid: 2da7e9fd94fc19241ab10e744cc046c5, type: 3}
+  spawnMonster2: {fileID: 3927634254908368415, guid: 5c2c8d9e5df6d9845a3ace12d469ace4, type: 3}
+  spawnMonster3: {fileID: 8943306656607487944, guid: 681a4164d616d144d87be0a0e286f55b, type: 3}
+  spawnMonster4: {fileID: 0}
+  backGround: {fileID: 2951969548611892303, guid: bf58c931bb43ef347881bd41fe19d008, type: 3}

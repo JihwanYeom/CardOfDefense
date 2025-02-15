@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73c52385ee658ac4981cee96f3e35621, type: 3}
+  m_Name: SO_A_2_2
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 3829080427113411273, guid: 3dd5c28ab348778499f7d0eaf4cd898e, type: 3}
+  skillPrefab: {fileID: 11400000, guid: 813ec842f3bff62439b68fc01c08f483, type: 2}
+  level: 3
+  sprite: {fileID: 21300000, guid: a39df32f0d0ff8f4493be8c387d2d8a3, type: 3}
+  upgrade: {fileID: 11400000, guid: e4000de645292bc4fb5a6032fff848bd, type: 2}
+  upgrade2: {fileID: 0}
+  upgrade3: {fileID: 0}
+  upgrade4: {fileID: 0}

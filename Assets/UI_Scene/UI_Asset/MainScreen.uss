@@ -1,0 +1,111 @@
+.button-main {
+    -unity-font: url("project://database/Assets/TextMesh%20Pro/Fonts/neodgm.ttf?fileID=12800000&guid=bd9a6ce783cbe46ab8071f774d20bbe0&type=3#neodgm");
+    -unity-font-definition: initial;
+    font-size: 80px;
+    width: 600px;
+    align-self: center;
+    margin-top: 70px;
+    margin-right: 70px;
+    margin-bottom: 70px;
+    margin-left: 70px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    background-image: url("project://database/Assets/UI_Scene/Fantasy%20Wooden%20GUI%20%20Free/normal_ui_set%20A/TextBTN_Big.png?fileID=2800000&guid=2be7b70e984b51444aca9c12ae4723a7&type=3#TextBTN_Big");
+    -unity-text-align: upper-center;
+    height: 120px;
+    background-color: rgba(56, 56, 56, 0);
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+    border-left-color: rgba(0, 0, 0, 0);
+    border-right-color: rgba(0, 0, 0, 0);
+    border-top-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(0, 0, 0, 0);
+}
+
+.button-main:hover {
+    scale: 1.05 1.05;
+}
+
+.button-main:active {
+    background-image: url("project://database/Assets/UI_Scene/Fantasy%20Wooden%20GUI%20%20Free/normal_ui_set%20A/TextBTN_Big_Pressed.png?fileID=2800000&guid=d6a1673a31851fd4395c287261da36e4&type=3#TextBTN_Big_Pressed");
+    -unity-background-scale-mode: stretch-to-fill;
+    scale: 1 1;
+    transition-property: all, ignored, ignored;
+    transition-duration: 0s, 0s, 0s;
+    transition-timing-function: ease, ease, ease;
+    transition-delay: 0s, 0s, 0s;
+    -unity-slice-scale: 10px;
+}
+
+.window-main {
+    width: 80%;
+    height: 864px;
+    align-items: center;
+    align-self: center;
+    top: 50px;
+    background-image: url("project://database/Assets/UI_Scene/Fantasy%20Wooden%20GUI%20%20Free/normal_ui_set%20A/UI%20board%20Medium%20%20parchment.png?fileID=2800000&guid=cf1462bc694c3c249831ad8ac5293aa2&type=3#UI board Medium  parchment");
+}
+
+.button-top {
+    background-image: url("project://database/Assets/UI_Scene/Fantasy%20Wooden%20GUI%20%20Free/normal_ui_set%20A/TextBTN_Big.png?fileID=2800000&guid=2be7b70e984b51444aca9c12ae4723a7&type=3#TextBTN_Big");
+    width: 200px;
+    height: 80px;
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0);
+    border-left-color: rgba(0, 0, 0, 0);
+    border-right-color: rgba(0, 0, 0, 0);
+    border-top-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(0, 0, 0, 0);
+    font-size: 45px;
+    -unity-font: url("project://database/Assets/TextMesh%20Pro/Fonts/neodgm.ttf?fileID=12800000&guid=bd9a6ce783cbe46ab8071f774d20bbe0&type=3#neodgm");
+    -unity-font-definition: initial;
+}
+
+.button-top:hover {
+    scale: 1.05 1.05;
+}
+
+.button-top:active {
+    background-image: url("project://database/Assets/UI_Scene/Fantasy%20Wooden%20GUI%20%20Free/normal_ui_set%20A/TextBTN_Big_Pressed.png?fileID=2800000&guid=d6a1673a31851fd4395c287261da36e4&type=3#TextBTN_Big_Pressed");
+    scale: 0.95 0.95;
+}
+
+.top-text {
+    -unity-font: url("project://database/Assets/TextMesh%20Pro/Fonts/neodgm.ttf?fileID=12800000&guid=bd9a6ce783cbe46ab8071f774d20bbe0&type=3#neodgm");
+    -unity-font-definition: initial;
+    font-size: 40px;
+    color: rgb(130, 91, 58);
+}
+
+#unity-tracker {
+    background-color: transparent;
+    border-color: transparent;
+}
+
+#unity-low-button {
+    display: none;
+}
+
+#unity-high-button {
+    display: none;
+}
+
+#unity-dragger {
+    background-color: rgb(166, 120, 79);
+    border-width: 5px;
+    border-color: rgb(73, 61, 53);
+    border-radius: 5px;
+    border-left-color: rgb(49, 42, 36);
+    border-right-color: rgb(49, 42, 36);
+    border-top-color: rgb(49, 42, 36);
+    border-bottom-color: rgb(49, 42, 36);
+}
+
+.treecard {
+    display: flex;
+}
+
+.treecard:hover {
+    scale: 1.05 1.05;
+}

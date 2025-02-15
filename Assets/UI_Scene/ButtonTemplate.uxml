@@ -1,0 +1,4 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI_Scene/UI_Asset/CardButton.uss?fileID=7433441132597879392&amp;guid=3e7227960fa4946cd978f5ef8a4e79ff&amp;type=3#CardButton" />
+    <ui:Button name="CardButton" class="card-button" />
+</ui:UXML>

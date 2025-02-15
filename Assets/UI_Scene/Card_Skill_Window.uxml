@@ -1,0 +1,3 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="Skill_Container" style="flex-grow: 1; background-image: url(&quot;project://database/Assets/UI_Scene/Fantasy%20Wooden%20GUI%20%20Free/normal_ui_set%20A/UI%20board%20Large%20stone.png?fileID=2800000&amp;guid=7066e0747291df44fa5c2bf93bee3a6e&amp;type=3#UI board Large stone&quot;);" />
+</ui:UXML>

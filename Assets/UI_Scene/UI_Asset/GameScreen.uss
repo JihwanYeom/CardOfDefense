@@ -1,0 +1,65 @@
+.topbutton {
+    width: 100px;
+    background-image: url("project://database/Assets/UI_Scene/Fantasy%20Wooden%20GUI%20%20Free/normal_ui_set%20A/button_.png?fileID=2800000&guid=ba0acb28513684c86bd97cad801c3b68&type=3#button_");
+    background-color: rgba(127, 127, 127, 0);
+    height: 100px;
+}
+
+.topbutton:hover {
+    transition-property: all, ignored;
+    transition-duration: 0s, 0s;
+    transition-timing-function: ease, ease;
+    transition-delay: 0s, 0s;
+    scale: 1.05 1.05;
+}
+
+.topbutton:active {
+    scale: 0.95 0.95;
+}
+
+.pausescreenbutton {
+    position: absolute;
+}
+
+.pausescreenbutton:hover {
+    scale: 1.05 1.05;
+}
+
+.pausescreenbutton:active {
+    scale: 0.95 0.95;
+}
+
+.dummy-button {
+}
+
+.dummy-button:hover {
+    scale: 1.1 1.1;
+}
+
+.select_card-button {
+    width: 500px;
+    height: 700px;
+    border-left-color: rgba(255, 255, 255, 0);
+    border-right-color: rgba(255, 255, 255, 0);
+    border-top-color: rgba(255, 255, 255, 0);
+    border-bottom-color: rgba(255, 255, 255, 0);
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.shift-button {
+    -unity-font: url("project://database/Assets/TextMesh%20Pro/Fonts/neodgm.ttf?fileID=12800000&guid=bd9a6ce783cbe46ab8071f774d20bbe0&type=3#neodgm");
+    -unity-font-definition: initial;
+    font-size: 100px;
+    color: rgb(195, 60, 60);
+    -unity-text-outline-width: 2px;
+    -unity-text-outline-color: rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0);
+    border-left-color: rgba(0, 0, 0, 0);
+    border-right-color: rgba(0, 0, 0, 0);
+    border-top-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(0, 0, 0, 0);
+}
+
+.select_card-button:hover {
+    scale: 1.05 1.05;
+}

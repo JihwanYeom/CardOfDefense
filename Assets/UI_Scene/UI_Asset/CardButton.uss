@@ -1,0 +1,35 @@
+.card-button:hover {
+    scale: 1.05 1.05;
+}
+
+.card-button {
+    width: 273px;
+    height: 382px;
+    background-size: cover;
+    background-color: transparent;
+    border-color: transparent;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+#unity-tracker {
+    background-color: transparent;
+    border-color: transparent;
+}
+
+#unity-low-button {
+    display: none;
+}
+
+#unity-high-button {
+    display: none;
+}
+
+#unity-dragger {
+    display: none;
+    background-color: #897D71;
+    border-width: 3px;
+    border-color: rgb(73, 61, 53);
+    border-radius: 5px;
+    
+}
