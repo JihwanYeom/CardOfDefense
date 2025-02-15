@@ -1,6 +1,10 @@
 ## Card Of Defence
 발표자료, 데모영상, 보고서 링크 - https://drive.google.com/drive/folders/1xt1ZnOjoT8e9BoBcxJ6S5dYEjzOah7Le?usp=sharing
 
+![스샷4](https://github.com/user-attachments/assets/45600225-5d8a-4e88-b7ca-4448f68494aa)
+![스샷5](https://github.com/user-attachments/assets/ca626460-31a8-4b13-8acb-f6676d4cae26)
+
+
 ## 프로젝트 설명
 - SW설계기초 과목에서 수행한 팀 프로젝트의 파일입니다 사용된 유료 에셋 원본 파일은 삭제하여 업로드 하였습니다
 - 작성자는 유닛과 스킬 스크립트를 담당하여 프로젝트에 참여였습니다
